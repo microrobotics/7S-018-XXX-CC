@@ -1,7 +1,7 @@
 # 7S-018-XXX-CC
 7 Segment 1.8 inch LED Display 
 
-#### https://www.robotics.org.za/7S-018-WHI-CC  (White)
+#### (White) - https://www.robotics.org.za/7S-018-WHI-CC  (White)
 #### https://www.robotics.org.za/7S-018-BLU-CC  (Blue)
 #### https://www.robotics.org.za/7S-018-GRE-CC  (Green)
 #### https://www.robotics.org.za/7S-018-RED-CC  (Red)
